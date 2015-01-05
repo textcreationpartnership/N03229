@@ -115,8 +115,8 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:003916_0000_10034B9566838AF8"/>
-            <pb n="1" facs="tcp:003916_0001_100354F6A9F155D0"/>
+            <pb facs="unknown:003916_0000_10034B9566838AF8"/>
+            <pb n="1" facs="unknown:003916_0001_100354F6A9F155D0"/>
             <p>AT A CONFERENCE Held at <hi>Deerfield</hi> in the County of <hi>Hampſhire,</hi> the Twenty ſeventh Day of <hi>Auguſt,</hi> Anno Regni Regis GEORGIJ Secundi, Magnae, Britan<g ref="char:EOLhyphen"/>niae, Franciae et Hiberniae, &amp;c. Nono, <hi>Anno<expan>
                      <am>
                         <g ref="char:abque"/>
@@ -141,7 +141,7 @@
       </front>
       <body>
          <div type="conference_account">
-            <pb n="2" facs="tcp:003916_0002_100354F983EE1A80"/>
+            <pb n="2" facs="unknown:003916_0002_100354F983EE1A80"/>
             <p>
                <seg rend="decorInit">H</seg>IS Excellency being ſeated at a large Table under a ſpacious Tent for that Purpoſe prepared, attended by a Quorum of His Majeſty's Council, and a Committee of the honourable Houſe of Repreſentatives, thereto appointed by the General Court; with a great Number of Gentlemen and others Spectators.</p>
             <p>The Union Flagg flying at the Head of the Tent.</p>
@@ -167,7 +167,7 @@
                <p>The Governour ſent for Three of Us, but uſually more of us come than are ſent for, we are Eight inſtead of Three. We have brought our Wives who we always want with us. <stage>(Then delivers a Belt of <hi>Wampum,</hi> being in Anſwer to One the Governour ſent them by the Meſſenger that called them)</stage>
                </p>
                <p>
-                  <pb n="3" facs="tcp:003916_0003_100354FB1A3DFCB0"/>
+                  <pb n="3" facs="unknown:003916_0003_100354FB1A3DFCB0"/>
 We incline to be ſhort left we ſhould be troubleſome to the Governour. We are here the Repreſentatives of the Three Families of the <hi>Cagnawaga</hi> Tribe, <hi>Ountauſſoogoe</hi> and Three others, one of the Families having ſent two Delegates.</p>
                <p>We deſire nothing may be taken amiſs by Your Excellency; if a wrong Word ſhould happen to fall from us, we deſire it may be taken up and recti<g ref="char:EOLhyphen"/>fyed; it is what has been uſual, and we deſire it may be ſo now.</p>
                <p>The Way is now clear, and the Door open for Freedom of Speech; but we have nothing to ſay at preſent. We were ſent for, and it is not cuſto<g ref="char:EOLhyphen"/>mary for thoſe that are drawn by the Hand to ſpeak firſt, and therefore wait to hear what Your Excellency has to ſay, and deſire You would pleaſe to appoint the time, when we ſhall be ready to attend.</p>
@@ -197,7 +197,7 @@ We incline to be ſhort left we ſhould be troubleſome to the Governour. We are
             <sp>
                <speaker>Ountauſſoogoe.</speaker>
                <p> When we received Your Excellency's Meſſage Our Young Men were out at War, and we inclined to ſee the Event; for if great Loſs had hapned, we ſhould have been obliged to revenge it Our Selves; and we are now come at Your Excellency's deſire. Although I am an Old Man, I 
-<pb n="4" facs="tcp:003916_0004_100354FCC544A5E8"/>
+<pb n="4" facs="unknown:003916_0004_100354FCC544A5E8"/>
 am not wanting of Buſineſs, ſometimes being called to one Place, ſometimes to another, on publick Affairs or otherways; and here we are now.</p>
             </sp>
             <sp>
@@ -225,7 +225,7 @@ am not wanting of Buſineſs, ſometimes being called to one Place, ſometimes t
                   <p> I thank GOD who has brought you here in Safety and Health after a long and tedious Journey. I look upon you as my Children, and hope you are good Subjects of King GEORGE. I ſhall always take the ſame Care of you as of the Engliſh, and take you under my Protection at all times; if you meet with any Difficulty at any time, I expect to have Notice of it; and if you have any thing to lay before me now I am ready to hear it. <stage>— <hi>After ſome Pauſe by the Indians</hi> —</stage> If you are not prepared now to ſpeak, I will give you a further Opportunity till the afternoon, or to morrow Morning. And I will now go on.</p>
                </sp>
                <sp>
-                  <pb n="5" facs="tcp:003916_0005_10034B9C52FC7D28"/>
+                  <pb n="5" facs="unknown:003916_0005_10034B9C52FC7D28"/>
                   <speaker>Indians.</speaker>
                   <p> We are come here to pay Our Reſpects to the Governour, and hear what the Governour has to ſay to Us, but we have nothing to ſay at this time.</p>
                   <p>
@@ -257,7 +257,7 @@ am not wanting of Buſineſs, ſometimes being called to one Place, ſometimes t
                <p>The Indians withdrew.</p>
             </div>
             <div type="day">
-               <pb n="6" facs="tcp:003916_0006_10035500401BE0B8"/>
+               <pb n="6" facs="unknown:003916_0006_10035500401BE0B8"/>
                <head>Thurſday <hi>Auguſt</hi> 28. 1735. The Conference Continued.</head>
                <p>PRESENT</p>
                <p>His Excellency <hi>Jonathan Belcher,</hi> 
@@ -274,7 +274,7 @@ am not wanting of Buſineſs, ſometimes being called to one Place, ſometimes t
                   <p>I hope you have been well entertained here, and that every thing has been agreable to you ſince you have been here.</p>
                </sp>
                <sp>
-                  <pb n="7" facs="tcp:003916_0007_10034BA3D3CF6558"/>
+                  <pb n="7" facs="unknown:003916_0007_10034BA3D3CF6558"/>
                   <speaker>Indians.</speaker>
                   <p> In the Morning we eat, are well entertained at Noon, and at Night lye down to Sleep; we Sleep well and are in good Health.</p>
                </sp>
@@ -309,7 +309,7 @@ am not wanting of Buſineſs, ſometimes being called to one Place, ſometimes t
                      <hi>My good Friends and Brethren,</hi>
                   </p>
                   <p>THere has been a long Friendſhip between King GEORGE's Subjects, and the <hi>Five Nations</hi> from whence you originally came, and there was a ſpecial Covenant made between this Government and You (the <hi>Cagnawaga</hi> Indians) at <hi>Albany,</hi> eleven Years ago, which you on Your part as well as we on Ours, have faithfully obſerved hitherto; and we now readily acknowledge that you have 
-<pb n="8" facs="tcp:003916_0008_10035506370192D0"/>
+<pb n="8" facs="unknown:003916_0008_10035506370192D0"/>
 teſtified your Faithfulneſs in divers Inſtances of your Friendſhip; and I now come by the deſire of the People of this Government to renew that Covenant, and to brighten the Chain, that a good Underſtanding of Peace and Friend<g ref="char:EOLhyphen"/>ſhip may be Cultivated and Continued for ever, that ſo the Children unborn may in times to come rejoyce in Our meeting together this day.</p>
                </sp>
                <p>His Excellency delivers them a large Belt of <hi>Wampum.</hi>
@@ -333,7 +333,7 @@ teſtified your Faithfulneſs in divers Inſtances of your Friendſhip; and I no
                <p>
                   <hi>Ountauſſoogoe,</hi> Indian Chief, — Riſes up, — And repeats again Article by Ar<g ref="char:EOLhyphen"/>ticle what His Excellency had ſaid: Then lays down a large Belt of <hi>Wam<g ref="char:EOLhyphen"/>pum</hi> doubled; and in anſwer to the Governour, (with one End of the Belt) ſays, —</p>
                <sp>
-                  <pb n="9" facs="tcp:003916_0009_10034BAD22AC86A0"/>
+                  <pb n="9" facs="unknown:003916_0009_10034BAD22AC86A0"/>
                   <p>
                      <hi>Brother,</hi> the <hi>Broad Way.</hi> I am poor in the Caſe: Don't expect a full Anſwer from us here; but I take up <hi>Your Word</hi> and ſhall carry it home to them that have ſent us here; they are now upon their Knee waiting for Our return, they are the Three Families of the <hi>Cagnawaga</hi> Tribe, and they with us will take theſe Affairs, which are of ſuch great Weight under Con<g ref="char:EOLhyphen"/>ſideration, in order to give the Governour an Anſwer. And we give thanks to the Great GOD that has given Your Excellency and Our Brethren of the BROAD WAY, an Heart to continue of the ſame Mind as when the Co<g ref="char:EOLhyphen"/>venant was entred into: We alſo rejoyce that GOD has continued Us of the ſame Mind, and that there is no ſeeking of any kind, but Good.</p>
                   <stage>With the other End of the Belt. He returns thanks for the Favours received.</stage>
@@ -349,7 +349,7 @@ teſtified your Faithfulneſs in divers Inſtances of your Friendſhip; and I no
                   <hi>Ountauſſoogoe</hi> drinks King GEORGE's Health and the Governour's, &amp;c.</p>
             </div>
             <div type="day">
-               <pb n="10" facs="tcp:003916_0010_10034BC916682520"/>
+               <pb n="10" facs="unknown:003916_0010_10034BC916682520"/>
                <head>Friday <hi>Auguſt</hi> 29. 1735. The Conference Continued.</head>
                <p>PRESENT</p>
                <p>His Excellency <hi>Jonathan Belcher,</hi> 
@@ -380,7 +380,7 @@ teſtified your Faithfulneſs in divers Inſtances of your Friendſhip; and I no
                            <p>We are deſirous to receive the Goſpel of Our LORD JESUS CHRIST; and hope that Our Hearts are in what we ſay, and that we don't ſpeak only out of our Lips: And we are thankful that Mr. <hi>Williams</hi> and other Miniſters are come to us, and eſpecially that Mr. <hi>Sargent,</hi> and Mr. <hi>Wood<g ref="char:EOLhyphen"/>bridge,</hi> have been ſent to us, and pray to the Great GOD to keep them, and cauſe they may have Health, and live long with us.</p>
                            <p>And <hi>Sir, Our Father,</hi> We did not come to you of our Selves, and tell you that we wanted any thing, and yet you have taken Care of Us as your Children, and given us Learning &amp;c. No Child ſays to his Father, I would have ſo and ſo; but a Father when he ſees his Children in want, is ready to help them: And ſo we think Your Excellency as our Father is willing to do to us upon every account; and we pray that when we are wanting any thing we may be directed to tell Col. <hi>Stoddard</hi> of it, that he may ſend to Your Excellency, that what we want may be done for us.</p>
                            <p>
-                              <pb n="11" facs="tcp:003916_0011_10034BB5DFBB0C00"/>
+                              <pb n="11" facs="unknown:003916_0011_10034BB5DFBB0C00"/>
                               <hi>Sir, Our Father,</hi> As we have been taught the Goſpel, ſo we hope to have it to Our Heart for ever.</p>
                            <p>
                               <hi>Sir, Our Father,</hi> Our Children are afraid of ſtrict Laws, and of being brought into trouble, and put in Priſon for Debt &amp;c. and we pray that Care may be taken by your Excellency as Our Father, and by the General Aſſembly, that we be not hurt by the ſeverity of the Laws, ſeeing we don't underſtand how to manage in ſuch Affairs, ſo as that there may not be any danger at any time that Our Children be taken away from us for Debt &amp;c.</p>
@@ -407,7 +407,7 @@ in the Name of the reſt.</signed>
                   <p> I take very kindly what you have ſaid, and you ſhall have a particular Anſwer to it to Morrow.</p>
                </sp>
                <p>
-                  <pb n="12" facs="tcp:003916_0012_1003550C73362738"/>
+                  <pb n="12" facs="unknown:003916_0012_1003550C73362738"/>
 The Governour drinks the great King GEORGE's Health to the Indians, and ſays, That under GOD, the King is the common Father of them and us, and wiſhes they may always proſper in Soul and Body.</p>
                <p>Captain <hi>Cuncaupot</hi> returns the Salute, and drinks the King's Health.</p>
                <sp>
@@ -448,7 +448,7 @@ The Governour drinks the great King GEORGE's Health to the Indians, and ſays, T
                   <p> No Sir, One was taken Sick this Morning, and a Child has been Sick ever ſince we came.</p>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:003916_0013_1003550E2AFA74E8"/>
+                  <pb n="13" facs="unknown:003916_0013_1003550E2AFA74E8"/>
                   <speaker>Governour.</speaker>
                   <p> I am ſorry for it; the Doctor ſhall tend on them — I expect none here now, but thoſe of the <hi>Cagnawaga</hi> Tube. —</p>
                   <stage>[Some others being under the Tent.]</stage>
@@ -473,7 +473,7 @@ The Governour drinks the great King GEORGE's Health to the Indians, and ſays, T
                <p>The Preſent was delivered, and the Indians dined with His Excellency &amp;c. under the Tent.</p>
             </div>
             <div type="day">
-               <pb n="14" facs="tcp:003916_0014_10035515D64A2958"/>
+               <pb n="14" facs="unknown:003916_0014_10035515D64A2958"/>
                <head>Saturday <hi>Auguſt</hi> 30. 1735. The Conference Continued.</head>
                <p>PRESENT</p>
                <p>His Excellency <hi>Jonathan Belcher,</hi> 
@@ -493,7 +493,7 @@ The Governour drinks the great King GEORGE's Health to the Indians, and ſays, T
                      <hi>My Friends and Children,</hi>
                   </p>
                   <p>Although I am much pleaſed with the Duty you expreſs to my Royal Maſter King GEORGE; yet it rejoyces my Heart above all things that you are deſirous to know and underſtand the Goſpel of Our LORD JESUS CHRIST, who is GOD as well as Man, and the only SAVIOUR of all 
-<pb n="15" facs="tcp:003916_0015_10034BBB5D7050E0"/>
+<pb n="15" facs="unknown:003916_0015_10034BBB5D7050E0"/>
 Men; by the Knowledge of His Glorious Goſpel, and by living in Obedi<g ref="char:EOLhyphen"/>ence to it, you will become good Subjects to the KING of Kings, and be led in the Way to be happy here, and eternally ſo in a better World.</p>
                   <p>I am thankful to GOD, and well pleaſed with you that you ſo kindly receive and entertain the Miniſters of JESUS CHRIST, who have been ſent among you, and more particularly Mr. <hi>Sargent,</hi> and alſo your School<g ref="char:EOLhyphen"/>Maſter Mr. <hi>Woodbridge.</hi> Theſe Gentlemen are ſent to you by an honoura<g ref="char:EOLhyphen"/>ble Company of Gentlemen in <hi>Old England,</hi> who alone are at the Charge of their Preaching to you and Inſtructing you; and as I am One of their Agents here, I think it is a Reſpect and Honour due to them to let you know this, that you may in due time expreſs your thankfulneſs for their pious Care and Compaſſion to your Souls.</p>
                   <p>And I muſt alſo take Notice to you how the GOD of the Spirits of all Fleſh, ſeems to be encouraging and ſupporting your worthy Miniſter in the difficult Undertaking he is engaged in for your beſt Happineſs, and I expect you will carefully attend upon his Inſtructions, and always pay him great reſpect and honour.</p>
@@ -504,7 +504,7 @@ Men; by the Knowledge of His Glorious Goſpel, and by living in Obedi<g ref="cha
                   <p>I have nothing more to ſay at preſent.</p>
                </sp>
                <sp>
-                  <pb n="16" facs="tcp:003916_0016_10035519363DF898"/>
+                  <pb n="16" facs="unknown:003916_0016_10035519363DF898"/>
                   <speaker>Captain <hi>Cuncaup<gap reason="illegible" resp="#PDCC" extent="1 letter">
                            <desc>•</desc>
                         </gap>t.</hi>
@@ -543,7 +543,7 @@ Men; by the Knowledge of His Glorious Goſpel, and by living in Obedi<g ref="cha
                      <hi>Lays down three</hi> Beaver Skins <hi>in token thereof.</hi>
                   </stage>
                   <p>
-                     <pb n="17" facs="tcp:003916_0017_10034BC45B1DE118"/>
+                     <pb n="17" facs="unknown:003916_0017_10034BC45B1DE118"/>
 Furthermore, <hi>Father—the Governour</hi> — In all you have ſaid we adhere.</p>
                   <stage>
                      <hi>And in token thereof lays down three</hi> Beaver Skins.—</stage>
@@ -585,7 +585,7 @@ Furthermore, <hi>Father—the Governour</hi> — In all you have ſaid we adhere
                   <p>Though we are ignorant and not capable of ſeeing for want of Under<g ref="char:EOLhyphen"/>ſtanding, yet we praiſe GOD that he has fixed a Day—this Day; and the time of Day—<hi>about Noon</hi> — When the Sun ſhines ſo bright upon us.</p>
                </sp>
                <p>
-                  <pb n="18" facs="tcp:003916_0018_1003551AC10C99B8"/>
+                  <pb n="18" facs="unknown:003916_0018_1003551AC10C99B8"/>
 Here follows the Order of the Proceedure in the Ordination of Mr. <hi>Sar<g ref="char:EOLhyphen"/>gent,</hi> within mentioned. <hi>viz.</hi>
                </p>
             </div>
@@ -604,7 +604,7 @@ Here follows the Order of the Proceedure in the Ordination of Mr. <hi>Sar<g ref=
                <p>The Moderator then proceeded to Mr. <hi>Sargent</hi>'s Conſent herein &amp;c. And then Hands were laid upon Mr. <hi>Sargent</hi> by all the Miniſters before named. The Reverend Mr. <hi>Williams</hi> of <hi>Hatfield</hi> made the firſt Prayer after Impoſiti<g ref="char:EOLhyphen"/>on of Hands, and then gave the Charge; the Reverend Mr. <hi>Appleton</hi> made the other Prayer; and the Reverend Mr. <hi>Williams</hi> of <hi>Long Meadow</hi> gave the Right Hand of Fellowſhip to Mr. <hi>Sargent.</hi>
                </p>
                <p>After which Mr. <hi>Williams</hi> turned himſelf to the <hi>Houſſatonnoc</hi> Indian Tribe, who were Seated in the Gallery by themſelves; and asked them if they 
-<pb n="19" facs="tcp:003916_0019_1003551F12C3FC50"/>
+<pb n="19" facs="unknown:003916_0019_1003551F12C3FC50"/>
 were deſirous of having Mr. <hi>Sargent</hi> for their Miniſter; that if they were, they would ſhew ſome Sign or Manifeſtation thereof: Whereupon they all roſe up by one Conſent, and with grave as well as chearful Countenan<g ref="char:EOLhyphen"/>ces ſignified their full, and hearty Acceptance of him.</p>
                <p>The Sermon in the Afternoon was from <hi>Iſaiah</hi> 2.4. by the Reverend Mr. <hi>Williams</hi> of <hi>Long Meadow.</hi>
                </p>
